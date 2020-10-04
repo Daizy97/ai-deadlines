@@ -1,5 +1,27 @@
 ---
 
+- title: CEC
+  hindex: ?
+  year: 2021
+  id: CEC21
+  link: https://cec2021.mini.pw.edu.pl/
+  deadline: '2021-01-31 23:59:59'
+  timezone: Europe/Warsaw
+  date: June 28, 2021
+  place: Kraków, Poland
+  sub: AI
+  
+  - title: GECCO
+  hindex: ?
+  year: 2021
+  id: GECCO21
+  link: https://gecco-2021.sigevo.org/HomePage
+  deadline: '2021-02-04 23:59:59'
+  timezone: Europe/Paris
+  date: July 10-14, 2021
+  place: Lille, France
+  sub: AI
+  
 - title: WACV
   hindex: 46
   year: 2021
